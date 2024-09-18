@@ -63,14 +63,4 @@ You should also know that this Privacy Policy Template is provided without any w
 This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
 
 
-## Author
 
-Arthur Garegnyan
-
-* Email: arthurgareginyan@gmail.com
-
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
